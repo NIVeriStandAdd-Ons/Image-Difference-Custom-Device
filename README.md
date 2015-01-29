@@ -16,8 +16,7 @@ Limited functionality.
 
 ### Dependencies ###
 
-NI Asynchronous Message Communication (AMC) Library
-Vision Acquisition Software
+NI Asynchronous Message Communication (AMC) Library, Vision Acquisition Software
 
 ### License ###
 
