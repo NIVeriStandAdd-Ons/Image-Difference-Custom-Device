@@ -1,4 +1,4 @@
-## IP Name ##
+## Image Difference Custom Device ##
 
 **Image Difference Custom Device** determines the difference between a stored image (captured during configuration) and the current image being acquired. The custom device uses the IMAQ Absolute Difference and Histogram to compute the mean difference between the two images.
 
